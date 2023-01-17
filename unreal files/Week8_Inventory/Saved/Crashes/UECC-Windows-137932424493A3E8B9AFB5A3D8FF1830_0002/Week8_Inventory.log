@@ -1,0 +1,1382 @@
+﻿Log file open, 01/17/23 11:14:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10396)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Week8_Inventory
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Week8_Inventory.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1706] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i9-11900 @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="0121e86c401094e3200ceaaaf23fff6a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.281362
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-137932424493A3E8B9AFB5A3D8FF1830
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1706] (), CPU: 11th Gen Intel(R) Core(TM) i9-11900 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.17-11.14.33:453][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.17-11.14.33:453][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.17-11.14.33:453][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.17-11.14.33:454][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.17-11.14.33:454][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.17-11.14.33:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.17-11.14.33:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.17-11.14.33:458][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.17-11.14.33:458][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.17-11.14.33:458][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.17-11.14.33:458][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.17-11.14.33:459][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.17-11.14.33:459][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.17-11.14.33:459][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.17-11.14.33:459][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.17-11.14.33:459][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.17-11.14.33:467][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.17-11.14.33:467][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.17-11.14.33:568][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.17-11.14.33:568][  0]LogD3D12RHI: Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 16244MB of shared system memory, 3 output[s]
+[2023.01.17-11.14.33:577][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.17-11.14.33:577][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16244MB of shared system memory, 0 output[s]
+[2023.01.17-11.14.33:577][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.17-11.14.33:577][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.17-11.14.33:577][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.17-11.14.33:577][  0]LogHAL: Display: Platform has ~ 32 GB [34067255296 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.17-11.14.33:577][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.17-11.14.33:577][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.17-11.14.33:577][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.17-11.14.33:577][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.17-11.14.33:577][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.17-11.14.33:577][  0]LogInit: Computer: C310-11
+[2023.01.17-11.14.33:577][  0]LogInit: User: c0999686
+[2023.01.17-11.14.33:577][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.17-11.14.33:577][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.17-11.14.33:577][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.01.17-11.14.33:577][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.17-11.14.33:577][  0]LogMemory: Process Physical Memory: 282.74 MB used, 290.50 MB peak
+[2023.01.17-11.14.33:577][  0]LogMemory: Process Virtual Memory: 250.89 MB used, 250.89 MB peak
+[2023.01.17-11.14.33:577][  0]LogMemory: Physical Memory: 8621.12 MB used,  23867.95 MB free, 32489.07 MB total
+[2023.01.17-11.14.33:577][  0]LogMemory: Virtual Memory: 11023.66 MB used,  26329.41 MB free, 37353.07 MB total
+[2023.01.17-11.14.33:577][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.17-11.14.33:580][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.17-11.14.33:588][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.17-11.14.33:588][  0]LogInit: Using OS detected language (en-US).
+[2023.01.17-11.14.33:588][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.17-11.14.33:590][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.17-11.14.33:716][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.17-11.14.33:726][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.17-11.14.33:726][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.17-11.14.33:726][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.17-11.14.33:726][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.17-11.14.33:726][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.01.17-11.14.33:727][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.01.17-11.14.33:739][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.17-11.14.33:739][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.17-11.14.33:807][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.17-11.14.33:809][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.17-11.14.33:809][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.17-11.14.33:863][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.17-11.14.33:914][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.17-11.14.33:918][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.17-11.14.33:924][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.17-11.14.33:941][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.17-11.14.33:941][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.17-11.14.33:956][  0]LogD3D12RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.17-11.14.33:956][  0]LogWindows: Attached monitors:
+[2023.01.17-11.14.33:956][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.17-11.14.33:956][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY2'
+[2023.01.17-11.14.33:956][  0]LogWindows:     resolution: 1920x1080, work area: (-992, 1080) -> (928, 2100), device: '\\.\DISPLAY3'
+[2023.01.17-11.14.33:956][  0]LogWindows: Found 3 attached monitors.
+[2023.01.17-11.14.33:956][  0]LogWindows: EnumDisplayDevices:
+[2023.01.17-11.14.33:956][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.17-11.14.33:956][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.01.17-11.14.33:956][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY3'
+[2023.01.17-11.14.33:957][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.17-11.14.33:957][  0]LogWindows:    4. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.17-11.14.33:957][  0]LogWindows:    5. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.17-11.14.33:957][  0]LogWindows:    6. 'Intel(R) UHD Graphics 750' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.17-11.14.33:957][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.17-11.14.33:957][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.01.17-11.14.33:957][  0]LogD3D12RHI:   Driver Version: 512.95 (internal:30.0.15.1295, unified:512.95)
+[2023.01.17-11.14.33:957][  0]LogD3D12RHI:      Driver Date: 5-19-2022
+[2023.01.17-11.14.33:957][  0]LogRHI: Texture pool is 5865 MB (70% of 8379 MB)
+[2023.01.17-11.14.33:957][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.17-11.14.33:957][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.17-11.14.33:965][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.17-11.14.35:804][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 3080
+Installed: 512.95
+Recommended: 516.25
+[2023.01.17-11.14.35:807][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Week8_Inventory.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/TurnkeyReport_0.log" -log="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/TurnkeyLog_0.log" -project="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Week8_Inventory.uproject"  -platform=all'
+[2023.01.17-11.14.35:807][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal Engine/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Week8_Inventory.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/TurnkeyReport_0.log" -log="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/TurnkeyLog_0.log" -project="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Week8_Inventory.uproject"  -platform=all" ]
+[2023.01.17-11.14.35:820][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.17-11.14.35:824][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.17-11.14.35:824][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.17-11.14.35:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.17-11.14.35:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.17-11.14.35:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.17-11.14.35:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.17-11.14.35:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.17-11.14.35:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.17-11.14.35:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.17-11.14.35:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.17-11.14.35:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.17-11.14.35:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.17-11.14.35:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.17-11.14.35:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.17-11.14.35:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.17-11.14.35:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.17-11.14.35:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.17-11.14.35:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.17-11.14.35:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.17-11.14.35:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.17-11.14.35:850][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.17-11.14.35:854][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.17-11.14.35:855][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.17-11.14.35:855][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.17-11.14.35:855][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.17-11.14.35:855][  0]LogTargetPlatformManager:   PCM
+[2023.01.17-11.14.35:856][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.17-11.14.35:856][  0]LogTargetPlatformManager:   BINKA
+[2023.01.17-11.14.35:856][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.17-11.14.35:856][  0]LogTargetPlatformManager:   OGG
+[2023.01.17-11.14.35:856][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.17-11.14.35:856][  0]LogTargetPlatformManager:   OPUS
+[2023.01.17-11.14.35:880][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.17-11.14.35:884][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.17-11.14.35:885][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.17-11.14.35:886][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.17-11.14.35:886][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.17-11.14.35:886][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.17-11.14.35:886][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.17-11.14.35:886][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.17-11.14.35:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.17-11.14.35:888][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.17-11.14.35:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.17-11.14.35:888][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.17-11.14.35:904][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.17-11.14.35:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.17-11.14.35:904][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.17-11.14.35:908][  0]LogDerivedDataCache: Speed tests for C:/Users/c0999686/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.01.17-11.14.35:908][  0]LogDerivedDataCache: Display: Performance to C:/Users/c0999686/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2575.31MBs, RandomWriteSpeed=257.25MBs. Assigned SpeedClass 'Local'
+[2023.01.17-11.14.35:909][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.17-11.14.35:909][  0]LogDerivedDataCache: Using Local data cache path C:/Users/c0999686/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.17-11.14.35:909][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.17-11.14.35:909][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.17-11.14.35:913][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.17-11.14.35:913][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.17-11.14.35:914][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Intermediate/Shaders/WorkingDirectory/8124/).
+[2023.01.17-11.14.35:914][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/c0999686/AppData/Local/Temp/UnrealShaderWorkingDir/C5AF87D64B18448B1A2ABAB9A4C232C5/'.
+[2023.01.17-11.14.35:914][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.17-11.14.35:914][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.17-11.14.36:940][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.17-11.14.36:940][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.17-11.14.36:967][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2023.01.17-11.14.36:970][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.17-11.14.37:095][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.17-11.14.37:096][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.17-11.14.37:236][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.17-11.14.37:236][  0]LogDeviceProfileManager: Active device profile: [00000BB280216AC0][00000BB2757C0000 50] WindowsEditor
+[2023.01.17-11.14.37:236][  0]LogDeviceProfileManager: Profiles: [00000BB280216580][00000BB2757C5000 50] Windows, [00000BB280216AC0][00000BB2757C0000 50] WindowsEditor, [00000BB280215240][00000BB275747800 50] WindowsServer, [00000BB280213B80][00000BB2756DC800 50] WindowsClient, [00000BB280214980][00000BB2757C2800 50] IOS, [00000BB280212840][00000BB26621A000 50] iPadAir2, [00000BB2802171C0][00000BB2804C2800 50] IPadPro, [00000BB280217540][00000BB2804C0000 50] iPadAir3, [00000BB280212140][00000BB2804C7800 50] iPadAir4, [00000BB280213800][00000BB2804CA000 50] iPadMini4, [00000BB2802163C0][00000BB2804CC800 50] iPadMini5, [00000BB280214B40][00000BB27989C800 50] iPadMini6, [00000BB28021A800][00000BB2804D5000 50] iPhone6S, [00000BB28021AB80][00000BB2804D2800 50] iPhone7, [00000BB28021A480][00000BB2804D0000 50] iPodTouch7, [00000BB280219BC0][00000BB2804DA000 50] iPhone6SPlus, [00000BB280213640][00000BB2804DC800 50] iPhone7Plus, [00000BB280215E80][00000BB2804C5000 50] iPhoneSE, [00000BB2802139C0][00000BB280540000 50] iPhone8, [00000BB280217A80][00000BB280545000 50] iPhone8Plus, [00000BB28021A100][00000BB280547800 50] iPhoneX, [00000BB28021A640][00000BB28054A000 50] iPhoneXS, [00000BB280218DC0][00000BB28054C800 50] iPhoneXSMax, [00000BB280217000][00000BB2804D7800 50] iPhoneXR, [00000BB280217700][00000BB2804F0000 50] iPhone11, [00000BB280214280][00000BB2804F5000 50] iPhone11Pro, [00000BB280219A00][00000BB2804F7800 50] iPhone11ProMax, [00000BB280217C40][00000BB2804FA000 50] iPhoneSE2, [00000BB280217FC0][00000BB2804FC800 50] iPhone12Mini, [00000BB280213480][00000BB280542800 50] iPhone12, [00000BB280218C00][00000BB280500000 50] iPhone12Pro, [00000BB2802132C0][00000BB280505000 50] iPhone12ProMax, [00000BB280212D80][00000BB280507800 50] iPhone13Mini, [00000BB2802140C0][00000BB28050A000 50] iPhone13, [00000BB280218180][00000BB28050C800 50] iPhone13Pro, [00000BB280215CC0][00000BB2804F2800 50] iPhone13ProMax, [00000BB280218340][00000BB280510000 50] iPadPro105, [00000BB280211F80][00000BB280515000 50] iPadPro129, [00000BB280212BC0][00000BB280517800 50] iPadPro97, [00000BB280218A40][00000BB28051A000 50] iPadPro2_129, [00000BB280215940][00000BB28051C800 50] iPad5, [00000BB280219840][00000BB280502800 50] iPad6, [00000BB280211A40][00000BB280520000 50] iPad7, [00000BB280219140][00000BB280525000 50] iPad8, [00000BB280216900][00000BB280527800 50] iPad9, [00000BB280218500][00000BB28052A000 50] iPadPro11, [00000BB280218880][00000BB28052C800 50] iPadPro2_11, [00000BB2802186C0][00000BB280512800 50] iPadPro3_11, [00000BB280219F40][00000BB280560000 50] iPadPro3_129, [00000BB280216040][00000BB280565000 50] iPadPro4_129, [00000BB2802178C0][00000BB280567800 50] iPadPro5_129, [00000BB28021A2C0][00000BB28056A000 50] AppleTV, [00000BB280213100][00000BB28056C800 50] AppleTV4K, [00000BB2802194C0][00000BB280522800 50] TVOS, [00000BB28021C780][00000BB280572800 50] Mac, [00000BB28021CB00][00000BB280570000 50] MacEditor, [00000BB280213F00][00000BB280577800 50] MacClient, [00000BB28021C400][00000BB28057A000 50] MacServer, [00000BB28021CCC0][00000BB280562800 50] Linux, [00000BB28021D040][00000BB28057C800 50] LinuxEditor, [00000BB280214D00][00000BB280580000 50] LinuxArm64Editor, [00000BB28021B600][00000BB280585000 50] LinuxArm64, [00000BB28021C940][00000BB280587800 50] LinuxClient, [00000BB28021D200][00000BB28058A000 50] LinuxArm64Client, [00000BB28021B280][00000BB28058C800 50] LinuxServer, [00000BB280217E00][00000BB280575000 50] LinuxArm64Server, [00000BB280212A00][00000BB280590000 50] Android, [00000BB280217380][00000BB280595000 50] Android_Preview_OpenGL, [00000BB280213D40][00000BB280597800 50] Android_Preview_Vulkan, [00000BB2802155C0][00000BB28059A000 50] Android_Low, [00000BB280219D80][00000BB28059C800 50] Android_Mid, [00000BB28021BEC0][00000BB280582800 50] Android_High, [00000BB28021C5C0][00000BB2805A0000 50] Android_Default, [00000BB28021B0C0][00000BB2805A5000 50] Android_Adreno4xx, [00000BB28021C080][00000BB2805A7800 50] Android_Adreno5xx_Low, [00000BB28021AF00][00000BB2805AA000 50] Android_Adreno5xx, [00000BB280216200][00000BB2805AC800 50] Android_Adreno6xx, [00000BB28021DAC0][00000BB280592800 50] Android_Adreno6xx_Vulkan, [00000BB280219680][00000BB2805B0000 50] Android_Adreno7xx, [00000BB280219300][00000BB2805B5000 50] Android_Adreno7xx_Vulkan, [00000BB280215400][00000BB2805B7800 50] Android_Mali_T6xx, [00000BB28021CE80][00000BB2805BA000 50] Android_Mali_T7xx, [00000BB280214440][00000BB2805BC800 50] Android_Mali_T8xx, [00000BB28021C240][00000BB2805A2800 50] Android_Mali_G71, [00000BB280215080][00000BB2805C0000 50] Android_Mali_G72, [00000BB280216C80][00000BB2805C5000 50] Android_Mali_G72_Vulkan, [00000BB28021D740][00000BB2805C7800 50] Android_Mali_G76, [00000BB28021BD00][00000BB2805CA000 50] Android_Mali_G76_Vulkan, [00000BB28021DC80][00000BB2805CC800 50] Android_Mali_G77, [00000BB2802147C0][00000BB2805B2800 50] Android_Mali_G77_Vulkan, [00000BB28021DE40][00000BB2805D0000 50] Android_Mali_G78, [00000BB28021D900][00000BB2805D5000 50] Android_Mali_G78_Vulkan, [00000BB280215B00][00000BB2805D7800 50] Android_Mali_G710, [00000BB28021E000][00000BB2805DA000 50] Android_Mali_G710_Vulkan, [00000BB28021B980][00000BB2805DC800 50] Android_Xclipse_920, [00000BB28021E1C0][00000BB2805C2800 50] Android_Xclipse_920_Vulkan, [00000BB28021EC40][00000BB2805E0000 50] Android_Vulkan_SM5, [00000BB28021A9C0][00000BB2805E5000 50] Android_PowerVR_G6xxx, [00000BB28021D580][00000BB2805E7800 50] Android_PowerVR_GT7xxx, [00000BB28021EE00][00000BB2805EA000 50] Android_PowerVR_GE8xxx, [00000BB280214600][00000BB2805EC800 50] Android_PowerVR_GM9xxx, [00000BB28021E540][00000BB2805D2800 50] Android_PowerVR_GM9xxx_Vulkan, [00000BB28021AD40][00000BB2805F0000 50] Android_TegraK1, [00000BB28021F180][00000BB2805F5000 50] Android_Unknown_Vulkan, [00000BB28021E8C0][00000BB2805F7800 50] Oculus_Quest, [00000BB280214EC0][00000BB2805FA000 50] Oculus_Quest2, [00000BB280610000][00000BB2805FC800 50] HoloLens, 
+[2023.01.17-11.14.37:236][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.17-11.14.37:251][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.17-11.14.37:391][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.17-11.14.37:391][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.17-11.14.37:391][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.17-11.14.37:391][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.17-11.14.37:391][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.17-11.14.37:402][  0]LogNetVersion: Week8_Inventory 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3408551176)
+[2023.01.17-11.14.37:489][  0]LogSlate: Border
+[2023.01.17-11.14.37:489][  0]LogSlate: BreadcrumbButton
+[2023.01.17-11.14.37:489][  0]LogSlate: Default
+[2023.01.17-11.14.37:489][  0]LogSlate: Icons.Save
+[2023.01.17-11.14.37:489][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.17-11.14.37:489][  0]LogSlate: ListView
+[2023.01.17-11.14.37:489][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.17-11.14.37:489][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.17-11.14.37:489][  0]LogSlate: TableView.DarkRow
+[2023.01.17-11.14.37:489][  0]LogSlate: TableView.Row
+[2023.01.17-11.14.37:489][  0]LogSlate: TreeView
+[2023.01.17-11.14.37:608][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.37:627][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.37:627][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.37:713][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.17-11.14.37:713][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.17-11.14.37:713][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.17-11.14.37:911][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8F5110364A31FAF04474CCB11D066C35 | Instance: 2C26F443430D188A11ABE7B44EC5CA43 (C310-11-8124).
+[2023.01.17-11.14.37:943][  0]LogPython: Using Python 3.9.7
+[2023.01.17-11.14.38:481][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.17-11.14.38:484][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.17-11.14.38:534][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.38:544][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.38:548][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.38:560][  0]LogUProjectInfo: Found projects:
+[2023.01.17-11.14.38:562][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.17-11.14.38:563][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.17-11.14.38:563][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.17-11.14.38:715][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.17-11.14.38:742][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.17-11.14.38:754][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.17-11.14.38:754][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.17-11.14.38:810][  0]LogCollectionManager: Loaded 0 collections in 0.000755 seconds
+[2023.01.17-11.14.38:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Saved/Collections/' took 0.00s
+[2023.01.17-11.14.38:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Content/Developers/c0999686/Collections/' took 0.00s
+[2023.01.17-11.14.38:856][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Content/Collections/' took 0.00s
+[2023.01.17-11.14.39:065][  0]LogEngine: Initializing Engine...
+[2023.01.17-11.14.39:075][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.17-11.14.39:076][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.17-11.14.39:260][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.17-11.14.39:260][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.17-11.14.39:267][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-11.14.39:287][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.17-11.14.39:288][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.17-11.14.39:302][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.17-11.14.39:302][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.17-11.14.39:302][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.17-11.14.39:303][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.17-11.14.39:303][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.17-11.14.39:303][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.17-11.14.39:303][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.17-11.14.39:303][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.17-11.14.39:303][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.17-11.14.39:303][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.17-11.14.39:307][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.17-11.14.39:318][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.17-11.14.39:318][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.17-11.14.39:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.17-11.14.39:319][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.17-11.14.39:320][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.17-11.14.39:320][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.17-11.14.39:321][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.17-11.14.39:321][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.17-11.14.39:321][  0]LogInit: FAudioDevice initialized.
+[2023.01.17-11.14.39:321][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.17-11.14.39:321][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.17-11.14.39:321][  0]LogInit: Texture streaming: Enabled
+[2023.01.17-11.14.39:343][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.17-11.14.39:349][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.17-11.14.39:369][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.17-11.14.39:374][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.17-11.14.39:374][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.17-11.14.40:029][  0]LogLiveCoding: Display: First instance in process group "UE_Week8_Inventory_0x4a54d9f3", spawning console
+[2023.01.17-11.14.40:029][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.17-11.14.40:029][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.17-11.14.40:044][  0]LogInit: Transaction tracking system initialized
+[2023.01.17-11.14.40:102][  0]BlueprintLog: New page: Editor Load
+[2023.01.17-11.14.40:237][  0]LocalizationService: Localization service is disabled
+[2023.01.17-11.14.40:272][  0]TimingProfiler: Initialize
+[2023.01.17-11.14.40:272][  0]TimingProfiler: OnSessionChanged
+[2023.01.17-11.14.40:272][  0]LoadingProfiler: Initialize
+[2023.01.17-11.14.40:272][  0]LoadingProfiler: OnSessionChanged
+[2023.01.17-11.14.40:272][  0]NetworkingProfiler: Initialize
+[2023.01.17-11.14.40:272][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.17-11.14.40:272][  0]MemoryProfiler: Initialize
+[2023.01.17-11.14.40:272][  0]MemoryProfiler: OnSessionChanged
+[2023.01.17-11.14.40:403][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.17-11.14.40:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.17-11.14.40:404][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.17-11.14.40:699][  0]LogFileCache: Scanning file cache for directory 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Content/' took 0.01s
+[2023.01.17-11.14.40:699][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.17-11.14.40:789][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.17-11.14.40:790][  0]SourceControl: Source control is disabled
+[2023.01.17-11.14.40:791][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.149
+[2023.01.17-11.14.40:791][  0]Cmd: MAP LOAD FILE="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.17-11.14.40:791][  0]LightingResults: New page: Lighting Build
+[2023.01.17-11.14.40:796][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-11.14.40:796][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-11.14.40:796][  0]MapCheck: New page: Map Check
+[2023.01.17-11.14.40:796][  0]LightingResults: New page: Lighting Build
+[2023.01.17-11.14.40:800][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.17-11.14.40:803][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.17-11.14.40:986][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.01.17-11.14.40:992][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-11.14.40:993][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.01.17-11.14.40:993][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.17-11.14.40:993][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.17-11.14.41:215][  0]LogWorldPartition: Display: WorldPartition initialize took 222 ms
+[2023.01.17-11.14.41:232][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.17-11.14.41:233][  0]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=540.000 Y=795.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.01.17-11.14.41:239][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.17-11.14.41:240][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.17-11.14.41:240][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2023.01.17-11.14.41:240][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 0.449
+[2023.01.17-11.14.41:250][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.608
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: ================================================
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.17-11.14.41:250][  0]LogShaderCompilers: Display: ================================================
+[2023.01.17-11.14.41:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.17-11.14.41:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.17-11.14.41:343][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.17-11.14.41:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.17-11.14.41:385][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:385][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:385][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:385][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:385][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:385][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:386][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:386][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:386][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:386][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:387][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:388][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal Engine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.17-11.14.41:388][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.17-11.14.41:388][  0]LogFeaturePack: Error: Error in Feature pack D:/Unreal Engine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.17-11.14.41:461][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.17-11.14.41:463][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.17-11.14.41:464][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.17-11.14.41:480][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.01.17-11.14.41:820][  0]LogStall: Startup...
+[2023.01.17-11.14.41:821][  0]LogStall: Startup complete.
+[2023.01.17-11.14.41:845][  0]LogLoad: (Engine Initialization) Total time: 9.20 seconds
+[2023.01.17-11.14.41:845][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.17-11.14.41:863][  0]LogAssetRegistry: Asset discovery search completed in 4.8971 seconds
+[2023.01.17-11.14.41:867][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.17-11.14.41:868][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.17-11.14.41:900][  0]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.17-11.14.43:923][130]LogNavigationDataBuild: Navigation data generation finished in /Game/FirstPerson/Maps/FirstPersonMap.
+[2023.01.17-11.14.45:060][238]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.17-11.14.45:063][238]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.17-11.14.46:968][458]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Content/' took 5.11s
+[2023.01.17-11.14.49:075][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.17-11.14.49:179][697]LogMaterial: Display: Missing cached shadermap for Chair in PCD3D_SM5, Default, SM5 (DDC key hash: AC520B09DBA87E0278A5939C4D2784044BFEFC02), compiling. 
+[2023.01.17-11.14.49:280][697]LogMaterial: Display: Missing cached shadermap for Desk_m1 in PCD3D_SM5, Default, SM5 (DDC key hash: 518D9A98517B6452F2B451C0270184A602212D62), compiling. 
+[2023.01.17-11.14.49:306][697]LogAssetEditorSubsystem: Opening Asset editor for World /Game/space_station.space_station
+[2023.01.17-11.14.49:306][697]Cmd: MAP LOAD FILE="C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Content/space_station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.17-11.14.49:307][697]LightingResults: New page: Lighting Build
+[2023.01.17-11.14.49:307][697]LoadErrors: New page: Loading map: space_station.umap
+[2023.01.17-11.14.49:309][697]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-11.14.49:309][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-11.14.49:312][697]MapCheck: New page: Map Check
+[2023.01.17-11.14.49:312][697]LightingResults: New page: Lighting Build
+[2023.01.17-11.14.49:318][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.17-11.14.49:322][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.17-11.14.52:637][697]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.01.17-11.14.52:637][697]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049950s
+[2023.01.17-11.14.57:333][697]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.01.17-11.14.57:333][697]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049974s
+[2023.01.17-11.14.57:334][697]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.050000s (0.087386s overbudget)
+[2023.01.17-11.14.57:346][697]LogWorld: UWorld::CleanupWorld for space_station, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-11.14.57:346][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-11.14.57:352][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.01.17-11.14.57:357][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.17-11.14.57:361][697]LogAudio: Display: Audio Device (ID: 1) registered with world 'space_station'.
+[2023.01.17-11.14.57:361][697]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.17-11.14.57:361][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-11.14.57:362][697]LogAIModule: Creating AISystem for world space_station
+[2023.01.17-11.14.57:365][697]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.17-11.14.57:374][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.17-11.14.57:380][697]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.17-11.14.57:380][697]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2023.01.17-11.14.57:380][697]LogFileHelpers: Loading map 'space_station' took 8.074
+[2023.01.17-11.14.57:387][697]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000964s (0.152211s overbudget)
+[2023.01.17-11.15.31:029][460]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.17-11.15.31:097][460]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.17-11.15.31:104][461]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.17-11.15.33:487][742]LogContentBrowser: Attempting asset rename: NewFolder -> Puzzles
+[2023.01.17-11.15.33:487][742]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.17-11.15.37:377][190]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.17-11.15.40:070][190]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.17-11.15.40:081][190]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.17-11.15.40:084][190]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.17-11.15.40:099][192]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.17-11.15.45:570][828]LogContentBrowser: Attempting asset rename: NewBlueprint -> Cog_puzzle_bp
+[2023.01.17-11.15.45:573][828]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.17-11.15.46:774][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp
+[2023.01.17-11.15.46:774][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-11.15.47:613][972]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.01.17-11.16.35:941][688]LogDerivedDataCache: C:/Users/c0999686/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.031 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-11.17.21:533][879]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.17-11.17.31:617][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.17.31:617][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.17.31:619][866]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_0
+[2023.01.17-11.17.31:619][866]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_0
+[2023.01.17-11.17.32:133][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.17.32:133][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.17.32:134][923]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_1
+[2023.01.17-11.17.32:135][923]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_1
+[2023.01.17-11.17.32:188][924]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.20:693][691]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.20:723][694]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.20:745][696]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.20:980][716]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.21:582][775]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.21:644][781]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.21:707][787]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.21:821][798]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.22:143][827]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.18.23:737][937]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.24.50:424][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.01.17-11.24.50:430][176]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005382 seconds
+[2023.01.17-11.24.50:437][176]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/space_station_Auto1
+[2023.01.17-11.24.50:438][176]LogSavePackage: Moving 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Saved/space_station_Auto1CA6F7EE3444490A30DC503A45C406911.tmp' to 'C:/Users/c0999686/Documents/GitHub/space-horruzle/unreal files/Week8_Inventory/Saved/Autosaves/Game/space_station_Auto1.umap'
+[2023.01.17-11.24.50:443][176]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/space_station' took 0.064
+[2023.01.17-11.24.50:443][176]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2023.01.17-11.25.32:796][920]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\c0999686\Desktop\Coggers.fbx)
+[2023.01.17-11.25.32:805][920]LogFbx: Loading FBX Scene from C:\Users\c0999686\Desktop\Coggers.fbx
+[2023.01.17-11.25.32:836][920]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.17-11.25.34:238][920]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.17-11.25.34:258][920]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: BAE117130A8FD9DDDE002484F285BCEE4F8889FC), compiling. 
+[2023.01.17-11.25.34:260][920]LogFbx: Display: Triangulating static mesh polySurface36
+[2023.01.17-11.25.34:271][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface36...
+[2023.01.17-11.25.34:278][920]LogStaticMesh: Built static mesh [0.01s] /Game/Puzzles/Coggers_polySurface36.Coggers_polySurface36
+[2023.01.17-11.25.34:288][920]LogFbx: Display: Triangulating static mesh polySurface37
+[2023.01.17-11.25.34:336][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface37...
+[2023.01.17-11.25.34:352][920]LogStaticMesh: Built static mesh [0.02s] /Game/Puzzles/Coggers_polySurface37.Coggers_polySurface37
+[2023.01.17-11.25.34:370][920]LogFbx: Display: Triangulating static mesh polySurface2
+[2023.01.17-11.25.34:409][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface2...
+[2023.01.17-11.25.34:427][920]LogStaticMesh: Built static mesh [0.02s] /Game/Puzzles/Coggers_polySurface2.Coggers_polySurface2
+[2023.01.17-11.25.34:454][920]LogFbx: Display: Triangulating static mesh polySurface3
+[2023.01.17-11.25.34:630][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface3...
+[2023.01.17-11.25.34:744][920]LogStaticMesh: Built static mesh [0.11s] /Game/Puzzles/Coggers_polySurface3.Coggers_polySurface3
+[2023.01.17-11.25.34:776][920]LogFbx: Display: Triangulating static mesh polySurface4
+[2023.01.17-11.25.34:778][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface4...
+[2023.01.17-11.25.34:781][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface4.Coggers_polySurface4
+[2023.01.17-11.25.34:793][920]LogFbx: Display: Triangulating static mesh polySurface5
+[2023.01.17-11.25.34:794][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface5...
+[2023.01.17-11.25.34:796][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface5.Coggers_polySurface5
+[2023.01.17-11.25.34:805][920]LogFbx: Display: Triangulating static mesh polySurface6
+[2023.01.17-11.25.34:807][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface6...
+[2023.01.17-11.25.34:809][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface6.Coggers_polySurface6
+[2023.01.17-11.25.34:818][920]LogFbx: Display: Triangulating static mesh polySurface7
+[2023.01.17-11.25.34:820][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface7...
+[2023.01.17-11.25.34:822][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface7.Coggers_polySurface7
+[2023.01.17-11.25.34:831][920]LogFbx: Display: Triangulating static mesh polySurface8
+[2023.01.17-11.25.34:833][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface8...
+[2023.01.17-11.25.34:836][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface8.Coggers_polySurface8
+[2023.01.17-11.25.34:844][920]LogFbx: Display: Triangulating static mesh polySurface9
+[2023.01.17-11.25.34:846][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface9...
+[2023.01.17-11.25.34:849][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface9.Coggers_polySurface9
+[2023.01.17-11.25.34:857][920]LogFbx: Display: Triangulating static mesh polySurface10
+[2023.01.17-11.25.34:859][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface10...
+[2023.01.17-11.25.34:861][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface10.Coggers_polySurface10
+[2023.01.17-11.25.34:870][920]LogFbx: Display: Triangulating static mesh polySurface11
+[2023.01.17-11.25.34:872][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface11...
+[2023.01.17-11.25.34:874][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface11.Coggers_polySurface11
+[2023.01.17-11.25.34:883][920]LogFbx: Display: Triangulating static mesh polySurface12
+[2023.01.17-11.25.34:885][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface12...
+[2023.01.17-11.25.34:888][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface12.Coggers_polySurface12
+[2023.01.17-11.25.34:896][920]LogFbx: Display: Triangulating static mesh polySurface13
+[2023.01.17-11.25.34:898][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface13...
+[2023.01.17-11.25.34:901][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface13.Coggers_polySurface13
+[2023.01.17-11.25.34:910][920]LogFbx: Display: Triangulating static mesh polySurface14
+[2023.01.17-11.25.34:912][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface14...
+[2023.01.17-11.25.34:914][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface14.Coggers_polySurface14
+[2023.01.17-11.25.34:923][920]LogFbx: Display: Triangulating static mesh polySurface15
+[2023.01.17-11.25.34:924][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface15...
+[2023.01.17-11.25.34:927][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface15.Coggers_polySurface15
+[2023.01.17-11.25.34:935][920]LogFbx: Display: Triangulating static mesh polySurface16
+[2023.01.17-11.25.34:937][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface16...
+[2023.01.17-11.25.34:940][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface16.Coggers_polySurface16
+[2023.01.17-11.25.34:948][920]LogFbx: Display: Triangulating static mesh polySurface17
+[2023.01.17-11.25.34:950][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface17...
+[2023.01.17-11.25.34:953][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface17.Coggers_polySurface17
+[2023.01.17-11.25.34:961][920]LogFbx: Display: Triangulating static mesh polySurface18
+[2023.01.17-11.25.34:963][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface18...
+[2023.01.17-11.25.34:965][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface18.Coggers_polySurface18
+[2023.01.17-11.25.34:973][920]LogFbx: Display: Triangulating static mesh polySurface19
+[2023.01.17-11.25.34:975][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface19...
+[2023.01.17-11.25.34:978][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface19.Coggers_polySurface19
+[2023.01.17-11.25.34:988][920]LogFbx: Display: Triangulating static mesh polySurface20
+[2023.01.17-11.25.34:991][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface20...
+[2023.01.17-11.25.34:994][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface20.Coggers_polySurface20
+[2023.01.17-11.25.35:002][920]LogFbx: Display: Triangulating static mesh polySurface21
+[2023.01.17-11.25.35:004][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface21...
+[2023.01.17-11.25.35:007][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface21.Coggers_polySurface21
+[2023.01.17-11.25.35:015][920]LogFbx: Display: Triangulating static mesh polySurface22
+[2023.01.17-11.25.35:017][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface22...
+[2023.01.17-11.25.35:019][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface22.Coggers_polySurface22
+[2023.01.17-11.25.35:029][920]LogFbx: Display: Triangulating static mesh polySurface23
+[2023.01.17-11.25.35:031][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface23...
+[2023.01.17-11.25.35:034][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface23.Coggers_polySurface23
+[2023.01.17-11.25.35:042][920]LogFbx: Display: Triangulating static mesh polySurface24
+[2023.01.17-11.25.35:044][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface24...
+[2023.01.17-11.25.35:046][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface24.Coggers_polySurface24
+[2023.01.17-11.25.35:055][920]LogFbx: Display: Triangulating static mesh polySurface25
+[2023.01.17-11.25.35:057][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface25...
+[2023.01.17-11.25.35:060][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface25.Coggers_polySurface25
+[2023.01.17-11.25.35:068][920]LogFbx: Display: Triangulating static mesh polySurface26
+[2023.01.17-11.25.35:070][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface26...
+[2023.01.17-11.25.35:072][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface26.Coggers_polySurface26
+[2023.01.17-11.25.35:081][920]LogFbx: Display: Triangulating static mesh polySurface27
+[2023.01.17-11.25.35:083][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface27...
+[2023.01.17-11.25.35:085][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface27.Coggers_polySurface27
+[2023.01.17-11.25.35:095][920]LogFbx: Display: Triangulating static mesh polySurface28
+[2023.01.17-11.25.35:097][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface28...
+[2023.01.17-11.25.35:100][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface28.Coggers_polySurface28
+[2023.01.17-11.25.35:108][920]LogFbx: Display: Triangulating static mesh polySurface29
+[2023.01.17-11.25.35:110][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface29...
+[2023.01.17-11.25.35:112][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface29.Coggers_polySurface29
+[2023.01.17-11.25.35:121][920]LogFbx: Display: Triangulating static mesh polySurface30
+[2023.01.17-11.25.35:123][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface30...
+[2023.01.17-11.25.35:125][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface30.Coggers_polySurface30
+[2023.01.17-11.25.35:134][920]LogFbx: Display: Triangulating static mesh polySurface31
+[2023.01.17-11.25.35:136][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface31...
+[2023.01.17-11.25.35:138][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface31.Coggers_polySurface31
+[2023.01.17-11.25.35:147][920]LogFbx: Display: Triangulating static mesh polySurface32
+[2023.01.17-11.25.35:149][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface32...
+[2023.01.17-11.25.35:151][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface32.Coggers_polySurface32
+[2023.01.17-11.25.35:159][920]LogFbx: Display: Triangulating static mesh polySurface33
+[2023.01.17-11.25.35:161][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface33...
+[2023.01.17-11.25.35:164][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface33.Coggers_polySurface33
+[2023.01.17-11.25.35:172][920]LogFbx: Display: Triangulating static mesh polySurface34
+[2023.01.17-11.25.35:174][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface34...
+[2023.01.17-11.25.35:176][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface34.Coggers_polySurface34
+[2023.01.17-11.25.35:184][920]LogFbx: Display: Triangulating static mesh polySurface35
+[2023.01.17-11.25.35:186][920]LogStaticMesh: Display: Building static mesh Coggers_polySurface35...
+[2023.01.17-11.25.35:189][920]LogStaticMesh: Built static mesh [0.00s] /Game/Puzzles/Coggers_polySurface35.Coggers_polySurface35
+[2023.01.17-11.25.35:267][920]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: ================================================
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Total job queries 53, among them cache hits 0 (0.00%)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 39 distinct outputs (78.00%)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: RAM used: 0.10 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Shaders Compiled: 51
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Jobs assigned 53, completed 50 (94.34%)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Average time worker was idle: 183.80 s
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Time job spent in pending queue: average 0.95 s, longest 5.08 s
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Job execution time: average 3.20 s, max 4.88 s
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Job life time (pending + execution): average 4.21 s, max 5.69
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.13 s
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 2.41 jobs/batch
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Average processing rate: 8.16 jobs/sec
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Effective parallelization: 5.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.99 sec, max 0.99 sec, min 0.98 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.98 sec, max 1.01 sec, min 0.96 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.52% of total time (compiled    2 times, average 0.99 sec, max 0.99 sec, min 0.98 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.49% of total time (compiled    2 times, average 0.98 sec, max 1.01 sec, min 0.96 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.21% of total time (compiled    2 times, average 0.93 sec, max 0.96 sec, min 0.90 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.13% of total time (compiled    2 times, average 0.92 sec, max 0.95 sec, min 0.89 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.11% of total time (compiled    2 times, average 0.91 sec, max 0.97 sec, min 0.86 sec)
+[2023.01.17-11.25.38:530][ 93]LogShaderCompilers: Display: ================================================
+[2023.01.17-11.25.48:055][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.01.17-11.25.49:567][879]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.17-11.25.49:608][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.17-11.25.49:631][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.17-11.25.49:654][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.17-11.26.46:088][316]LogViewport: Scene viewport resized to 732x503, mode Windowed.
+[2023.01.17-11.26.46:804][316]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.01.17-11.26.57:121][ 99]LogViewport: Scene viewport resized to 732x503, mode Windowed.
+[2023.01.17-11.27.00:264][284]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\c0999686\Desktop\Coggers.fbx)
+[2023.01.17-11.27.00:270][284]LogFbx: Loading FBX Scene from C:\Users\c0999686\Desktop\Coggers.fbx
+[2023.01.17-11.27.00:297][284]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.17-11.27.01:434][284]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.17-11.27.01:453][284]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 58C9A929134F5EB4A8FAE43DF48D97A91A3D3235), compiling. 
+[2023.01.17-11.27.01:485][284]LogFbx: Display: Triangulating static mesh polySurface210
+[2023.01.17-11.27.01:708][284]LogStaticMesh: Display: Building static mesh Coggers...
+[2023.01.17-11.27.01:891][284]LogStaticMesh: Built static mesh [0.18s] /Game/Puzzles/Coggers.Coggers
+[2023.01.17-11.27.01:937][284]FBXImport: FBX File Loading: Found name clash, node 'polySurface2' was renamed to 'polySurface210' 
+[2023.01.17-11.27.02:010][284]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Puzzles/Coggers) ...
+[2023.01.17-11.27.04:414][500]LogSlate: Window 'Message Log' being destroyed
+[2023.01.17-11.27.04:422][500]LogSlate: Window 'Message Log' being destroyed
+[2023.01.17-11.27.07:240][742]LogViewport: Scene viewport resized to 732x506, mode Windowed.
+[2023.01.17-11.27.07:302][742]LogViewport: Scene viewport resized to 732x510, mode Windowed.
+[2023.01.17-11.27.08:303][765]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.01.17-11.27.10:678][986]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.14:053][289]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.14:085][292]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.14:203][303]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.14:225][305]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.14:276][310]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.14:444][326]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.15:226][362]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.15:436][378]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.18:034][627]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.22:684][ 62]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.24:827][255]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.24:848][257]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.24:871][259]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.24:871][259]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:872][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:872][259]LogPhysics: Warning: Scale for /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_1.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:873][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_1.Coggers1' 
+[2023.01.17-11.27.24:873][259]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:873][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:882][260]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_1.Coggers1)
+[2023.01.17-11.27.24:883][260]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:883][260]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:883][260]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:883][260]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:883][260]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:883][260]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:893][261]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.24:894][261]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:894][261]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:894][261]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2023.01.17-11.27.24:894][261]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.Cog_puzzle_bp_C_0.Coggers1' 
+[2023.01.17-11.27.24:894][261]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_1.Coggers1)
+[2023.01.17-11.27.24:959][267]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:002][271]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:066][277]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:109][281]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:131][283]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:153][285]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:269][296]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:332][302]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:376][306]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:428][311]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:450][313]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:483][316]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:505][318]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:526][320]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:548][322]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.25:722][334]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.26:228][344]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:235][636]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:268][639]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:301][642]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:390][650]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:508][660]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:530][662]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:701][678]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:766][684]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.29:831][690]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.30:109][716]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.30:539][756]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.34:012][ 45]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.34:109][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.34:355][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.34:384][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.34:437][ 63]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.35:737][185]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.36:014][212]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.36:718][279]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.37:277][299]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.37:421][305]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.37:460][309]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.37:483][311]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.39:009][452]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.39:080][458]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.39:242][472]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.39:383][485]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.39:417][488]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.39:462][492]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.41:745][708]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.17-11.27.41:887][709]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.44:807][957]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.48:066][313]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.49:888][481]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.49:954][487]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.49:998][491]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.50:052][496]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.50:096][500]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.50:341][523]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.51:088][592]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.51:183][601]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.51:478][629]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.58:543][265]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.58:677][269]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:344][331]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:462][341]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:485][343]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:518][346]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:656][358]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:752][367]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.27.59:824][373]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.00:774][456]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.02:718][639]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.03:441][666]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:534][766]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:562][769]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:606][773]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:628][775]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:670][779]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:759][787]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.04:850][795]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.05:030][812]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.05:051][814]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.05:975][901]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.06:021][905]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.06:177][920]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.06:302][932]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.06:642][965]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.07:763][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.09:496][234]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.09:773][248]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.10:061][254]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.10:194][259]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.10:295][268]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:053][337]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:098][341]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:229][352]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:338][361]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:361][363]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:406][367]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.11:682][393]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.12:375][455]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.12:470][463]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.12:503][466]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.12:686][483]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.13:590][565]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.13:700][575]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.13:788][583]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.16:407][830]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.17:770][954]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.21:264][286]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.21:662][302]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.21:961][308]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:101][322]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:137][325]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:160][327]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:207][331]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:400][349]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:615][369]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.22:711][377]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.23:015][405]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.23:040][407]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.23:256][427]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.23:280][429]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.31:347][200]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:378][370]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:545][373]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:726][379]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:757][382]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:791][385]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:860][391]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:884][393]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.33:941][398]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.34:788][478]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.42:290][183]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.44:213][340]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.44:522][346]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.45:173][405]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.45:251][411]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.45:303][415]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.45:328][417]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.46:316][504]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.47:584][617]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.47:608][619]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.47:727][630]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.47:762][633]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.47:786][635]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.47:883][643]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.48:561][704]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.48:890][718]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.49:748][772]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.49:783][775]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.49:808][777]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.49:832][779]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.49:902][785]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.49:970][791]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:005][794]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:030][796]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:078][800]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:114][803]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:322][822]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:348][824]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:386][827]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.50:700][856]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.54:738][185]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.55:945][284]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.57:955][465]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.57:980][467]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.58:110][479]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.58:262][493]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.28.58:414][507]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.00:338][680]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.02:361][845]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.03:531][928]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.03:588][933]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.03:885][960]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.03:920][963]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:119][981]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:232][991]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:409][  7]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:455][ 11]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:748][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:870][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:894][ 50]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.04:975][ 57]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.05:151][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.06:024][149]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.06:075][153]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.06:111][156]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.07:382][269]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.07:557][285]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:735][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:769][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:792][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:826][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:849][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:883][ 45]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:907][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:940][ 50]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:973][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.15:996][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:060][ 61]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:145][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:200][ 74]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:226][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:249][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:295][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.16:494][101]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.17:129][159]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.20:047][437]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.20:437][471]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.23:330][717]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.23:458][728]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.23:639][745]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.23:758][755]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.24:069][782]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.27:875][122]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.28:020][136]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.28:544][187]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.28:597][192]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.28:681][200]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.28:775][209]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.28:899][221]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.29:572][287]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.29:779][304]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.30:601][384]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.30:747][398]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.31:419][460]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.32:544][570]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.33:013][612]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.36:002][896]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.37:141][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.48:624][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.49:092][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.49:117][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.49:556][121]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.53:850][500]Cmd: DELETE
+[2023.01.17-11.29.53:850][500]Cmd: ACTOR DELETE
+[2023.01.17-11.29.53:852][500]LogEditorActor: Deleted Actor: Cog_puzzle_bp_C
+[2023.01.17-11.29.53:896][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.01.17-11.29.53:902][500]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2023.01.17-11.29.53:917][501]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.56:561][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.29.56:561][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.29.56:565][731]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_2
+[2023.01.17-11.29.56:567][731]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_2
+[2023.01.17-11.29.57:328][810]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.29.57:328][810]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp_C
+[2023.01.17-11.29.57:331][810]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_3
+[2023.01.17-11.29.57:334][810]LogActorFactory: Actor Factory spawned Blueprint /Game/Puzzles/Cog_puzzle_bp.Cog_puzzle_bp as actor: Cog_puzzle_bp_C /Game/space_station.space_station:PersistentLevel.Cog_puzzle_bp_C_3
+[2023.01.17-11.29.57:367][811]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:530][919]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:564][922]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:599][925]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:652][930]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:686][933]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:742][938]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:785][942]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:830][946]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:885][951]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:917][954]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.58:963][958]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:058][967]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:112][972]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:135][974]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:158][976]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:234][983]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:258][985]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:290][988]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.29.59:782][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.30.01:010][145]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.30.02:815][258]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.30.02:976][270]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.30.06:108][566]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.30.33:181][ 91]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.17-11.30.42:053][ 93]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.17-11.31.03:874][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/UseAction_BI.UseAction_BI
+[2023.01.17-11.31.03:874][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-11.31.12:433][544]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.31.35:895][235]LogNavigationDataBuild: Navigation data generation finished in /Game/space_station.
+[2023.01.17-11.31.50:826][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.01.17-11.31.50:826][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-11.32.55:498][709]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.01.17-11.33.16:176][807]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.17-11.33.16:545][807]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.369 s
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: 
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 858]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(406)]). See InvalidateGraphData for more info
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: Stack: 
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff87a4c59ab UnrealEditor-GraphEditor.dll!SGraphNode::FindWidgetForPin() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:1302]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff87a4c5093 UnrealEditor-GraphEditor.dll!FGraphPinHandle::FindInGraphPanel() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp:61]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff87a3cbd48 UnrealEditor-GraphEditor.dll!FGraphSplineOverlapResult::GetBestPinWidget() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h:67]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff87a4fcf8c UnrealEditor-GraphEditor.dll!SGraphPanel::OnSplineHoverStateChanged() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:508]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff87a4faf5d UnrealEditor-GraphEditor.dll!SGraphPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:463]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc4565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff8993762af UnrealEditor-Slate.dll!SBox::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBox.cpp:293]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff899376110 UnrealEditor-Slate.dll!SBorder::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:129]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc4565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff8993f54ec UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:254]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:545][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff8993f54ec UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:254]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc4565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff899376110 UnrealEditor-Slate.dll!SBorder::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:129]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc4565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff8993f54ec UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:254]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc4565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc4565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc39cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc78e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8684 UnrealEditor-SlateCore.dll!SWindow::PaintSlowPath() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2073]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898b6ce1a UnrealEditor-SlateCore.dll!FSlateInvalidationRoot::PaintInvalidationRoot() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\FastUpdate\SlateInvalidationRoot.cpp:399]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff898cc8945 UnrealEditor-SlateCore.dll!SWindow::PaintWindow() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2105]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff89912904e UnrealEditor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1106]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff8991294ca UnrealEditor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1158]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff899154787 UnrealEditor-Slate.dll!FSlateApplication::PrivateDrawWindows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1338]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff899129b14 UnrealEditor-Slate.dll!FSlateApplication::DrawWindows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1060]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff89917afa9 UnrealEditor-Slate.dll!FSlateApplication::TickAndDrawWidgets() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1625]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff89917a738 UnrealEditor-Slate.dll!FSlateApplication::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1482]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff7416d8e7d UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5325]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff7416f0d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff7416f0e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff7416f3c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff741705564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff741708736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff8ed307034 KERNEL32.DLL!UnknownFunction []
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: [Callstack] 0x00007ff8ef1c2651 ntdll.dll!UnknownFunction []
+[2023.01.17-11.33.16:546][807]LogOutputDevice: Error: 
