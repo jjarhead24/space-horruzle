@@ -1,0 +1,5 @@
+2023/03/07-16:20:46.580 73ec Reusing MANIFEST D:/space-horruzle/unreal files/Week8_Inventory/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/07-16:28:56.348 74a4 Level-0 table #5: started
+2023/03/07-16:28:56.436 74a4 Level-0 table #5: 7389 bytes OK
+2023/03/07-16:28:56.488 74a4 Delete type=0 #3
+2023/03/07-16:28:56.488 74a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
